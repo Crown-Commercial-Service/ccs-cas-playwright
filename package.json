@@ -28,7 +28,7 @@
     "@playwright/test": "^1.46.0",
     "@types/node": "^20.14.11",
     "browserstack-local": "^1.5.5",
-    "browserstack-node-sdk": "^1.34.7",
+    "browserstack-node-sdk": "^1.49.2",
     "cross-env": "^7.0.3",
     "dotenv": "^16.4.5",
     "fs-extra": "^11.2.0",
